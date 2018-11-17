@@ -13,8 +13,10 @@
         <p class="cityTitle" v-if="index==0" id="index">{{item}}(按字母排序)</p>
         <p class="cityTitle" v-else id="index">{{item}}</p>
         <Row>
-        <template v-for="(items,index) in datas[item]">
-          <Col :key="index+'d'" class="h-City abc" span="6">{{items.name}}</Col>
+        <template v-for="(items,index) in datas[item]" >
+          <router-link :key="index+'a'" :to="{'name':'searchCity','params':{'id':items.id,'title':items.name}}">
+            <Col class="h-City abc" span="6">{{items.name}}</Col>
+          </router-link>
         </template>
         </Row>
     </div>

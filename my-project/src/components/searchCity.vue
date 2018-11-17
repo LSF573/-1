@@ -2,7 +2,7 @@
     <div>
         <Row class="header">
             <router-link to="/">
-              <Col class="forword" span="10"><</Col>
+            <Col class="forword" span="10"><</Col>
             </router-link>
             <Col span="9">{{$route.params.title}}</Col>
             <Col span="5">切换城市</Col>
@@ -15,14 +15,26 @@
           <button class="submit" @click="search">提交</button>
         </div>
         <div>
-            <p class="searchH">搜索历史</p>
-            <div>
+            <div> 
                 <template v-for="(item,index) in datas" >
-                <div class="cityBox" :key="index" @click="save(index)">
-                    <h4>{{item.name}}</h4>
-                    <p class="addr">{{item.address}}</p>
+                    <router-link  :key="index" :to="{'name':'index','params':{'id':item.id,'title':item.name}}">
+                    <div class="cityBox" @click="save(index)">
+                        <h4>{{item.name}}</h4>
+                        <p class="addr">{{item.address}}</p>
+                    </div>
+                    </router-link>
+                </template>
+            </div>
+            <div>
+                 <p class="searchH">搜索历史</p>
+                <!-- {{massageArr}} -->
+               <template v-for="(items,index) in history" >
+                <div class="cityBox" :key="index+'h'">
+                    <h4>{{items.name}}</h4>
+                    <p class="addr">{{items.address}}</p>
                 </div>
                 </template>
+                <p class="clear" @click="clear">清空记录</p>
             </div>
         </div>
     </div>
@@ -32,8 +44,11 @@
 export default {
   data () {
     return {
-        value: '',
-        datas:[]
+      value: '',
+      datas:[],
+      massageArr:[],
+      history:[]
+
     }
   },
   methods:{
@@ -44,10 +59,18 @@ export default {
         })
       },
       save(num){
-          this.storage=this.datas[num];
-          console.log(this.storage.address)
-          window.localStorage["address"]=this.storage.address;
+         this.massageArr.push(this.datas[num])
+        //   object对象转JSON字符串 存到localStorage
+          window.localStorage["massage"]=JSON.stringify(this.massageArr);
+      },
+      clear(){
+          this.history=[]
       }
+  },
+  created(){
+    //   从本地缓存中取数据
+      this.history=JSON.parse(window.localStorage.getItem("massage"));
+      console.log(this.history)
   }
 }
 </script>
@@ -114,5 +137,8 @@ body{
 .addr{
     font-size: 13px;
     color: #999999;
+}
+.clear{
+    text-align: center;
 }
 </style>

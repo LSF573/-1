@@ -6,9 +6,10 @@ import router from './router'
 import Axios from 'axios'
 Vue.prototype.$Axios=Axios
 import iView from 'iview';
+import Vuex from 'vuex'
 import 'iview/dist/styles/iview.css'
 Vue.use(iView);
-
+Vue.use(Vuex)
 
 import Jq from 'jquery'
 Vue.prototype.$ajax=Jq
@@ -22,6 +23,7 @@ Vue.config.productionTip = false
 new Vue({
   el: '#app',
   router,
+  Vuex,
   components: { App },
   template: '<router-view/>'
 })

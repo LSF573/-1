@@ -1,0 +1,1512 @@
+{
+    "has_next": true,
+    "items": [
+        {
+            "restaurant": {
+                "act_tag": 0,
+                "activities": [
+                    {
+                        "attribute": "{\"88\": {\"1\": 40.0, \"0\": 0}, \"25\": {\"1\": 24.0, \"0\": 0}, \"45\": {\"1\": 32.0, \"0\": 0}, \"65\": {\"1\": 35.0, \"0\": 0}}",
+                        "description": "满25减24，满45减32，满65减35，满88减40",
+                        "icon_color": "f07373",
+                        "icon_name": "减",
+                        "id": 1699087114,
+                        "is_exclusive_with_food_activity": true,
+                        "name": "满减",
+                        "tips": "满25减24，满45减32，满65减35，满88减40",
+                        "type": 102
+                    },
+                    {
+                        "description": "周三半价日",
+                        "icon_color": "f07373",
+                        "icon_name": "折",
+                        "id": 1699806665,
+                        "name": "周三半价日",
+                        "tips": "周三半价日"
+                    },
+                    {
+                        "attribute": "17.0",
+                        "description": "新用户下单立减17元",
+                        "icon_color": "70bc46",
+                        "icon_name": "首",
+                        "id": 1693653825,
+                        "is_exclusive_with_food_activity": true,
+                        "name": "新用户立减(不与其他活动共享)",
+                        "tips": "新用户下单立减17元",
+                        "type": 103
+                    },
+                    {
+                        "description": "招牌半价",
+                        "icon_color": "f07373",
+                        "icon_name": "折",
+                        "id": 1692288041,
+                        "name": "招牌半价",
+                        "tips": "招牌半价"
+                    },
+                    {
+                        "description": "周一超高性价比套餐",
+                        "icon_color": "f07373",
+                        "icon_name": "惠",
+                        "id": 1699605657,
+                        "name": "周一超高性价比套餐",
+                        "tips": "周一超高性价比套餐"
+                    },
+                    {
+                        "description": "周一超高性价比套餐",
+                        "icon_color": "f07373",
+                        "icon_name": "惠",
+                        "id": 1699605473,
+                        "name": "周一超高性价比套餐",
+                        "tips": "周一超高性价比套餐"
+                    },
+                    {
+                        "description": "ka双11特价菜11.1",
+                        "icon_color": "f1884f",
+                        "icon_name": "特",
+                        "id": 1648821633,
+                        "name": "ka双11特价菜11.1",
+                        "tips": "ka双11特价菜11.1"
+                    },
+                    {
+                        "description": "单品定价",
+                        "icon_color": "f1884f",
+                        "icon_name": "特",
+                        "id": 1654282033,
+                        "name": "单品定价",
+                        "tips": "单品定价"
+                    },
+                    {
+                        "description": "【双11】打标装修-5折",
+                        "icon_color": "f07373",
+                        "icon_name": "折",
+                        "id": 1646845481,
+                        "name": "【双11】打标装修-5折",
+                        "tips": "【双11】打标装修-5折"
+                    },
+                    {
+                        "description": "单品定价",
+                        "icon_color": "f1884f",
+                        "icon_name": "特",
+                        "id": 1598316217,
+                        "name": "单品定价",
+                        "tips": "单品定价"
+                    },
+                    {
+                        "description": "单品定价",
+                        "icon_color": "f1884f",
+                        "icon_name": "特",
+                        "id": 1568389241,
+                        "name": "单品定价",
+                        "tips": "单品定价"
+                    },
+                    {
+                        "description": "单品定价",
+                        "icon_color": "f1884f",
+                        "icon_name": "特",
+                        "id": 1568388705,
+                        "name": "单品定价",
+                        "tips": "单品定价"
+                    },
+                    {
+                        "description": "单品定价",
+                        "icon_color": "f1884f",
+                        "icon_name": "特",
+                        "id": 1517910794,
+                        "name": "单品定价",
+                        "tips": "单品定价"
+                    },
+                    {
+                        "description": "单品定价",
+                        "icon_color": "f1884f",
+                        "icon_name": "特",
+                        "id": 1517910842,
+                        "name": "单品定价",
+                        "tips": "单品定价"
+                    },
+                    {
+                        "description": "单品定价",
+                        "icon_color": "f1884f",
+                        "icon_name": "特",
+                        "id": 1509151705,
+                        "name": "单品定价",
+                        "tips": "单品定价"
+                    },
+                    {
+                        "description": "单品定价",
+                        "icon_color": "f1884f",
+                        "icon_name": "特",
+                        "id": 1492036657,
+                        "name": "单品定价",
+                        "tips": "单品定价"
+                    },
+                    {
+                        "description": "单品定价",
+                        "icon_color": "f1884f",
+                        "icon_name": "特",
+                        "id": 1492035833,
+                        "name": "单品定价",
+                        "tips": "单品定价"
+                    },
+                    {
+                        "description": "单品定价",
+                        "icon_color": "f1884f",
+                        "icon_name": "特",
+                        "id": 1492034713,
+                        "name": "单品定价",
+                        "tips": "单品定价"
+                    },
+                    {
+                        "description": "单品定价",
+                        "icon_color": "f1884f",
+                        "icon_name": "特",
+                        "id": 1492033897,
+                        "name": "单品定价",
+                        "tips": "单品定价"
+                    },
+                    {
+                        "description": "单品定价",
+                        "icon_color": "f1884f",
+                        "icon_name": "特",
+                        "id": 1492030617,
+                        "name": "单品定价",
+                        "tips": "单品定价"
+                    },
+                    {
+                        "description": "超值换购",
+                        "icon_color": "f1884f",
+                        "icon_name": "换",
+                        "id": 1435864337,
+                        "name": "超值换购",
+                        "tips": "超值换购"
+                    },
+                    {
+                        "description": "超值换购",
+                        "icon_color": "f1884f",
+                        "icon_name": "换",
+                        "id": 1435864345,
+                        "name": "超值换购",
+                        "tips": "超值换购"
+                    },
+                    {
+                        "description": "单品定价",
+                        "icon_color": "f1884f",
+                        "icon_name": "特",
+                        "id": 1425277361,
+                        "name": "单品定价",
+                        "tips": "单品定价"
+                    },
+                    {
+                        "description": "单品定价",
+                        "icon_color": "f1884f",
+                        "icon_name": "特",
+                        "id": 1425258065,
+                        "name": "单品定价",
+                        "tips": "单品定价"
+                    }
+                ],
+                "address": "郑州市二七区丹枫路6号院4号楼1层106",
+                "authentic_id": 5393828750214242,
+                "business_info": "{}",
+                "delivery_mode": {
+                    "border": "",
+                    "color": "2395FF",
+                    "gradient": {
+                        "rgb_from": "00AAFF",
+                        "rgb_to": "0085FF"
+                    },
+                    "icon_hash": "b9b45d2f6ff0dbeef3a78ef0e4e90abapng",
+                    "id": 1,
+                    "is_solid": true,
+                    "text": "蜂鸟专送",
+                    "text_color": "FFFFFF"
+                },
+                "description": "",
+                "distance": 1530,
+                "favored": false,
+                "flavors": [
+                    {
+                        "id": 212,
+                        "name": "汉堡"
+                    },
+                    {
+                        "id": 234,
+                        "name": "炸鸡炸串"
+                    }
+                ],
+                "float_delivery_fee": 2,
+                "float_minimum_order_amount": 20,
+                "folding_restaurant_brand": "哆哆客汉堡",
+                "folding_restaurants": [
+                    {
+                        "distance": 6074,
+                        "id": 168035837,
+                        "name": "哆哆客炸鸡汉堡（郑州亚星店）",
+                        "order_lead_time": 27,
+                        "scheme": "eleme://catering?restaurant_id=168035837",
+                        "type": 0
+                    }
+                ],
+                "has_story": false,
+                "id": 152181642,
+                "image_path": "4e21033d68b63436741ca8c0d3b15acbpng",
+                "is_new": false,
+                "is_premium": true,
+                "is_stock_empty": 0,
+                "is_valid": 1,
+                "latitude": 34.6960438571429,
+                "longitude": 113.669541571429,
+                "max_applied_quantity_per_order": -1,
+                "name": "哆哆客汉堡(橄榄城店)",
+                "next_business_time": "明天 00:00",
+                "only_use_poi": false,
+                "opening_hours": [
+                    "00:00/24:00"
+                ],
+                "order_lead_time": 24,
+                "out_of_range": false,
+                "phone": "0371-55693225",
+                "piecewise_agent_fee": {
+                    "description": "夜间配送费¥2",
+                    "extra_fee": 0.5,
+                    "is_extra": true,
+                    "no_subsidy_fee": "¥5",
+                    "rules": [
+                        {
+                            "fee": 2,
+                            "price": 20
+                        }
+                    ],
+                    "tips": "夜间配送费¥2"
+                },
+                "platform": 0,
+                "posters": [],
+                "promotion_info": "哆哆客汉堡新推新品套餐：哆小萌，哆小帅，更有小哆薯霸，欢迎试吃。订餐过程中遇到任何问题，请及时与店家联系，我们会处理到满意为止。不要很生气的给个差评哦。",
+                "rating": 4.8,
+                "rating_count": 1425,
+                "recent_order_num": 1372,
+                "recommend": {
+                    "color": "#e8470b",
+                    "image_hash": "",
+                    "is_ad": false,
+                    "reason": "",
+                    "track": "{\"rankType\":\"27\"}"
+                },
+                "recommend_reasons": [
+                    {
+                        "name": "回头客多"
+                    },
+                    {
+                        "name": "配送飞快"
+                    }
+                ],
+                "regular_customer_count": 0,
+                "scheme": "eleme://catering?restaurant_id=152181642",
+                "status": 1,
+                "support_tags": [
+                    {
+                        "border": "dddddd",
+                        "color": "666666",
+                        "icon": "4e20966ca2a516de3f02fb9c7fd1bc6dpng",
+                        "text": "汉堡",
+                        "type": 1
+                    },
+                    {
+                        "border": "dddddd",
+                        "color": "666666",
+                        "text": "口碑人气好店"
+                    }
+                ],
+                "supports": [
+                    {
+                        "border": "90dddddd",
+                        "description": "该商户食品安全已由国泰产险承担，食品安全有保障",
+                        "icon_color": "999999",
+                        "icon_name": "保",
+                        "id": 7,
+                        "name": "食安保",
+                        "text_color": "666666",
+                        "two_characters_icon_name": "保险"
+                    }
+                ],
+                "tags": [],
+                "theme": {
+                    "default_color": "2395ff",
+                    "header_style": 0,
+                    "hongbao_style": 0,
+                    "price_color": "ff5339",
+                    "third_tab_name": "商家",
+                    "vanish_fields": []
+                },
+                "type": 0
+            }
+        },
+        {
+            "restaurant": {
+                "act_tag": 0,
+                "activities": [
+                    {
+                        "attribute": "{\"25\": {\"1\": 15.0, \"0\": 0}, \"75\": {\"1\": 40.0, \"0\": 0}, \"46\": {\"1\": 30.0, \"0\": 0}}",
+                        "description": "满25减15，满46减30，满75减40",
+                        "icon_color": "f07373",
+                        "icon_name": "减",
+                        "id": 1720135313,
+                        "is_exclusive_with_food_activity": true,
+                        "name": "阿明满减",
+                        "tips": "满25减15，满46减30，满75减40",
+                        "type": 102
+                    },
+                    {
+                        "description": "招牌半价",
+                        "icon_color": "f07373",
+                        "icon_name": "折",
+                        "id": 1705652793,
+                        "name": "招牌半价",
+                        "tips": "招牌半价"
+                    },
+                    {
+                        "attribute": "17.0",
+                        "description": "新用户下单立减17元",
+                        "icon_color": "70bc46",
+                        "icon_name": "首",
+                        "id": 1173982825,
+                        "is_exclusive_with_food_activity": true,
+                        "name": "新用户立减(不与其他活动共享)",
+                        "tips": "新用户下单立减17元",
+                        "type": 103
+                    },
+                    {
+                        "description": "周一超高性价比套餐",
+                        "icon_color": "f07373",
+                        "icon_name": "惠",
+                        "id": 1699476345,
+                        "name": "周一超高性价比套餐",
+                        "tips": "周一超高性价比套餐"
+                    },
+                    {
+                        "description": "周一超高性价比套餐",
+                        "icon_color": "f07373",
+                        "icon_name": "惠",
+                        "id": 1699476265,
+                        "name": "周一超高性价比套餐",
+                        "tips": "周一超高性价比套餐"
+                    },
+                    {
+                        "description": "周一超高性价比套餐",
+                        "icon_color": "f07373",
+                        "icon_name": "惠",
+                        "id": 1699476097,
+                        "name": "周一超高性价比套餐",
+                        "tips": "周一超高性价比套餐"
+                    },
+                    {
+                        "attribute": "{\"35.0\": {\"quantity\": 1, \"must_pay_online\": 0, \"name\": \"\\u3010\\u96ea\\u78a7\\u3011330ml\\u6613\\u62c9\\u7f50\\u4ea7\\u54c1\"}}",
+                        "description": "满35元赠送【雪碧】330ml易拉罐产品1份",
+                        "icon_color": "3cc791",
+                        "icon_name": "赠",
+                        "id": 596551186,
+                        "is_exclusive_with_food_activity": true,
+                        "name": "满35元赠【雪碧】330ml拉罐产品1份",
+                        "tips": "满35元赠送【雪碧】330ml易拉罐产品1份",
+                        "type": 106
+                    },
+                    {
+                        "description": "单品定价",
+                        "icon_color": "f1884f",
+                        "icon_name": "特",
+                        "id": 1265956425,
+                        "name": "单品定价",
+                        "tips": "单品定价"
+                    },
+                    {
+                        "description": "单品定价",
+                        "icon_color": "f1884f",
+                        "icon_name": "特",
+                        "id": 1265956417,
+                        "name": "单品定价",
+                        "tips": "单品定价"
+                    },
+                    {
+                        "description": "单品定价",
+                        "icon_color": "f1884f",
+                        "icon_name": "特",
+                        "id": 1041046025,
+                        "name": "单品定价",
+                        "tips": "单品定价"
+                    },
+                    {
+                        "description": "风景和美食，你总要选一个！",
+                        "icon_color": "f07373",
+                        "icon_name": "特",
+                        "id": 362487458,
+                        "name": "风景和美食，你总要选一个！",
+                        "tips": "风景和美食，你总要选一个！"
+                    },
+                    {
+                        "description": "万水千山总是情，给个好评行不行！",
+                        "icon_color": "f07373",
+                        "icon_name": "特",
+                        "id": 362486442,
+                        "name": "万水千山总是情，给个好评行不行！",
+                        "tips": "万水千山总是情，给个好评行不行！"
+                    }
+                ],
+                "address": "郑州市二七区连云路橄榄城都市广场A112号楼下左半间",
+                "authentic_id": 8323888739020195,
+                "business_info": "{}",
+                "description": "阿明，作为中原地区铁砂煲仔，秉承健康养生，传承经典美食的宗旨，刻苦创新，坚守诚信。从2008年创始至今，阿明已经发展成为直营店20余家，加盟店30余家。煲仔上桌时的滋滋啦啦、热气腾腾中弥漫着诱人的焦香、锅巴的金黄酥脆.....让人回味。",
+                "distance": 1508,
+                "favored": false,
+                "flavors": [
+                    {
+                        "id": 269,
+                        "name": "煲仔饭"
+                    },
+                    {
+                        "id": 265,
+                        "name": "简餐"
+                    }
+                ],
+                "float_delivery_fee": 1.5,
+                "float_minimum_order_amount": 20,
+                "folding_restaurant_brand": "阿明煲仔饭",
+                "folding_restaurants": [
+                    {
+                        "distance": 5343,
+                        "id": 161396216,
+                        "name": "阿明煲仔饭(福都广场店)",
+                        "order_lead_time": 38,
+                        "scheme": "eleme://catering?restaurant_id=161396216",
+                        "type": 0
+                    },
+                    {
+                        "distance": 5350,
+                        "id": 2126277,
+                        "name": "阿明煲仔饭(二七万达店)",
+                        "order_lead_time": 39,
+                        "scheme": "eleme://catering?restaurant_id=2126277",
+                        "type": 0
+                    }
+                ],
+                "has_story": false,
+                "id": 162645595,
+                "image_path": "b8b250375a9bd6df7c414a9d028e7ad3jpeg",
+                "is_new": false,
+                "is_premium": true,
+                "is_stock_empty": 0,
+                "is_valid": 1,
+                "latitude": 34.696179,
+                "longitude": 113.672798,
+                "max_applied_quantity_per_order": -1,
+                "name": "阿明煲仔饭(橄榄城店)",
+                "next_business_time": "明天 09:30",
+                "only_use_poi": false,
+                "opening_hours": [
+                    "09:30/22:00"
+                ],
+                "order_lead_time": 28,
+                "out_of_range": false,
+                "phone": "13383864708 0371-55016262",
+                "piecewise_agent_fee": {
+                    "description": "夜间配送费¥1.5",
+                    "extra_fee": -1,
+                    "is_extra": true,
+                    "no_subsidy_fee": "¥4.5",
+                    "rules": [
+                        {
+                            "fee": 1.5,
+                            "rules": 20
+                        }
+                    ],
+                    "tips": "夜间配送费¥1.5"
+                },
+                "platform": 0,
+                "posters": [],
+                "promotion_info": "菜品口味请看介绍，配送问题请不要给商家差评。相信一分价钱一分货，订放心外卖，选实体商家。阿明煲仔饭为连锁直营店，食材统一采购，欢迎顾客来店内品尝美食，竭诚为您提供优质餐品。如在订餐过程中遇到问题，请致电0371-55016262。祝您生活愉快！",
+                "rating": 4.7,
+                "rating_count": 385,
+                "recent_order_num": 1040,
+                "recommend": {
+                    "is_ad": false,
+                    "reason": ""
+                },
+                "recommend_reasons": [
+                    {
+                        "name": "回头客多"
+                    },
+                    {
+                        "name": "配送飞快"
+                    }
+                ],
+                "regular_customer_count": 0,
+                "scheme": "eleme://catering?restaurant_id=162645595",
+                "status": 1,
+                "support_tags": [
+                    {
+                        "border": "dddddd",
+                        "color": "666666",
+                        "icon": "4e20966ca2a516de3f02fb9c7fd1bc6dpng",
+                        "text": "煲仔饭",
+                        "type": 1
+                    },
+                    {
+                        "border": "dddddd",
+                        "color": "333333",
+                        "text": "品质联盟"
+                    }
+                ],
+                "supports": [
+                    {
+                        "border": "90dddddd",
+                        "description": "该商户食品安全已由国泰产险承担，食品安全有保障",
+                        "icon_color": "999999",
+                        "icon_name": "保",
+                        "id": 7,
+                        "name": "食安保",
+                        "text_color": "666666",
+                        "two_characters_icon_name": "保险"
+                    },
+                    {
+                        "border": "90dddddd",
+                        "description": "该商家支持开发票，开票订单金额50元起，请在下单时填写好发票抬头",
+                        "icon_color": "999999",
+                        "icon_name": "票",
+                        "id": 4,
+                        "name": "开发票",
+                        "text_color": "666666",
+                        "two_characters_icon_name": "发票"
+                    }
+                ],
+                "tags": [],
+                "theme": {
+                    "default_color": "2395ff",
+                    "header_style": 0,
+                    "hongbao_style": 0,
+                    "price_color": "ff5339",
+                    "third_tab_name": "商家",
+                    "vanish_fields": []
+                },
+                "type": 0
+            }
+        },
+        {
+            "restaurant": {
+                "act_tag": 0,
+                "activities": [
+                    {
+                        "attribute": "{\"50\": {\"1\": 1.0, \"0\": 0}, \"60\": {\"1\": 2.0, \"0\": 0}}",
+                        "description": "满50减1，满60减2",
+                        "icon_color": "f07373",
+                        "icon_name": "减",
+                        "id": 1693072609,
+                        "is_exclusive_with_food_activity": true,
+                        "name": "活动",
+                        "tips": "满50减1，满60减2",
+                        "type": 102
+                    },
+                    {
+                        "attribute": "14.0",
+                        "description": "新用户下单立减14元",
+                        "icon_color": "70bc46",
+                        "icon_name": "首",
+                        "id": 806671482,
+                        "is_exclusive_with_food_activity": true,
+                        "name": "新用户立减(不与其他活动共享)",
+                        "tips": "新用户下单立减14元",
+                        "type": 103
+                    }
+                ],
+                "address": "郑州市二七区连云路123号黄河科技学院南校区",
+                "authentic_id": 3323858740116690,
+                "business_info": "{}",
+                "description": "川香园起源于四川成都地区的传统特色小吃。麻辣烫也是吸收了麻辣火锅的优点改良而来。采用牛骨，牛油，海椒，花椒等调料，为底汤熬制，呈现鲜香营养不上火，是四川最有特色也最能代表川味的一种饮食。",
+                "distance": 1046,
+                "favored": false,
+                "flavors": [
+                    {
+                        "id": 214,
+                        "name": "麻辣烫"
+                    }
+                ],
+                "float_delivery_fee": 0,
+                "float_minimum_order_amount": 12,
+                "has_story": false,
+                "id": 156045290,
+                "image_path": "4067e3ad037169dbf601207709eda991jpeg",
+                "is_new": false,
+                "is_premium": false,
+                "is_stock_empty": 0,
+                "is_valid": 1,
+                "latitude": 34.684135,
+                "longitude": 113.68002,
+                "max_applied_quantity_per_order": -1,
+                "name": "川香园麻辣烫",
+                "next_business_time": "明天 08:30",
+                "only_use_poi": false,
+                "opening_hours": [
+                    "08:30/22:20"
+                ],
+                "order_lead_time": 36,
+                "out_of_range": false,
+                "phone": "18039942226",
+                "piecewise_agent_fee": {
+                    "description": "免配送费",
+                    "extra_fee": 0,
+                    "is_extra": false,
+                    "no_subsidy_fee": "",
+                    "rules": [
+                        {
+                            "fee": 0,
+                            "price": 12
+                        }
+                    ],
+                    "tips": "免配送费"
+                },
+                "platform": 0,
+                "posters": [],
+                "promotion_info": "亲，现在可以做干拌麻辣烫哦，只需备注一下哦。",
+                "rating": 4.4,
+                "rating_count": 1466,
+                "recent_order_num": 1284,
+                "recommend": {
+                    "is_ad": false,
+                    "reason": ""
+                },
+                "recommend_reasons": [],
+                "regular_customer_count": 0,
+                "scheme": "eleme://catering?restaurant_id=156045290",
+                "status": 1,
+                "support_tags": [
+                    {
+                        "border": "dddddd",
+                        "color": "666666",
+                        "icon": "4e20966ca2a516de3f02fb9c7fd1bc6dpng",
+                        "text": "麻辣烫",
+                        "type": 1
+                    },
+                    {
+                        "border": "dddddd",
+                        "color": "333333",
+                        "text": "品质联盟"
+                    }
+                ],
+                "supports": [
+                    {
+                        "border": "90dddddd",
+                        "description": "该商户食品安全已由国泰产险承担，食品安全有保障",
+                        "icon_color": "999999",
+                        "icon_name": "保",
+                        "id": 7,
+                        "name": "食安保",
+                        "text_color": "666666",
+                        "two_characters_icon_name": "保险"
+                    }
+                ],
+                "tags": [],
+                "theme": {
+                    "default_color": "2395ff",
+                    "header_style": 0,
+                    "hongbao_style": 0,
+                    "price_color": "ff5339",
+                    "third_tab_name": "商家",
+                    "vanish_fields": []
+                },
+                "type": 0
+            }
+        },
+        {
+            "restaurant": {
+                "act_tag": 0,
+                "activities": [],
+                "address": "郑州市二七区黄河科技学院南校区商业街",
+                "authentic_id": 3373818740790108,
+                "bidding": "{\"core\":{\"index\":3,\"extraInfo\":\"{\\\"bidding\\\":\\\"{}\\\",\\\"rankId\\\":\\\"ae58e85ebb4141f9b88b466757ce0289\\\",\\\"rankTime\\\":\\\"1542201483\\\",\\\"cityId\\\":\\\"32\\\"}\",\"target\":{\"restaurantId\":530408,\"weight\":40,\"probability\":0.12013000249862671},\"come_from\":0,\"next\":{\"restaurantId\":167527325,\"weight\":90,\"probability\":0.037459999322891235}}}",
+                "business_info": "{}",
+                "description": "有时候吃不是肚子饿，只是嘴巴寂寞而已。",
+                "distance": 618,
+                "favored": false,
+                "flavors": [
+                    {
+                        "id": 267,
+                        "name": "黄焖鸡米饭"
+                    }
+                ],
+                "float_delivery_fee": 0,
+                "float_minimum_order_amount": 8,
+                "has_story": false,
+                "id": 530408,
+                "image_path": "6c447677f4f793e3fd5d37543e3dd61djpeg",
+                "is_new": false,
+                "is_premium": false,
+                "is_stock_empty": 0,
+                "is_valid": 1,
+                "latitude": 34.688682,
+                "longitude": 113.676391,
+                "max_applied_quantity_per_order": -1,
+                "name": "美食城黄焖鸡(黄科大店)",
+                "next_business_time": "明天 09:00",
+                "only_use_poi": false,
+                "opening_hours": [
+                    "09:00/21:50"
+                ],
+                "order_lead_time": 36,
+                "out_of_range": false,
+                "phone": "17839928659 18574164825",
+                "piecewise_agent_fee": {
+                    "description": "免配送费",
+                    "extra_fee": 0,
+                    "is_extra": false,
+                    "no_subsidy_fee": "",
+                    "rules": [
+                        {
+                            "fee": 0,
+                            "price": 8
+                        }
+                    ],
+                    "tips": "免配送费"
+                },
+                "platform": 0,
+                "posters": [],
+                "promotion_info": "店内黄焖鸡正宗味鲜实惠送米饭1份！欢迎同学前来订餐！",
+                "rating": 3.8,
+                "rating_count": 218,
+                "recent_order_num": 670,
+                "recommend": {
+                    "image_hash": "731111f3f9379e772eedf4855beae8a1jpeg",
+                    "is_ad": true,
+                    "reason": "广告",
+                    "track": "{\"rankType\":\"8\"}"
+                },
+                "recommend_reasons": [],
+                "regular_customer_count": 0,
+                "scheme": "eleme://catering?restaurant_id=530408",
+                "status": 1,
+                "support_tags": [
+                    {
+                        "border": "dddddd",
+                        "color": "666666",
+                        "icon": "4e20966ca2a516de3f02fb9c7fd1bc6dpng",
+                        "text": "黄焖鸡米饭",
+                        "type": 1
+                    },
+                    {
+                        "border": "dddddd",
+                        "color": "333333",
+                        "text": "品质联盟"
+                    }
+                ],
+                "supports": [],
+                "theme": {
+                    "default_color": "2395ff",
+                    "header_style": 0,
+                    "hongbao_style": 0,
+                    "price_color": "ff5339",
+                    "third_tab_name": "商家",
+                    "vanish_fields": []
+                },
+                "type": 0
+            }
+        },
+        {
+            "restaurant": {
+                "act_tag": 0,
+                "activities": [
+                    {
+                        "attribute": "{\"90\": {\"1\": 42.0, \"0\": 0}, \"75\": {\"1\": 37.0, \"0\": 0}, \"20\": {\"1\": 16.0, \"0\": 0}, \"45\": {\"1\": 21.0, \"0\": 0}}",
+                        "description": "满20减16，满45减21，满75减37，满90减42",
+                        "icon_color": "f07373",
+                        "icon_name": "减",
+                        "id": 1698422793,
+                        "is_exclusive_with_food_activity": true,
+                        "name": "满减",
+                        "tips": "满20减16，满45减21，满75减37，满90减42",
+                        "type": 102
+                    },
+                    {
+                        "description": "周三半价日",
+                        "icon_color": "f07373",
+                        "icon_name": "折",
+                        "id": 1699877569,
+                        "name": "周三半价日",
+                        "tips": "周三半价日"
+                    },
+                    {
+                        "attribute": "14.0",
+                        "description": "新用户下单立减14元",
+                        "icon_color": "70bc46",
+                        "icon_name": "首",
+                        "id": 1594983385,
+                        "is_exclusive_with_food_activity": true,
+                        "name": "新用户立减(不与其他活动共享)",
+                        "tips": "新用户下单立减14元",
+                        "type": 103
+                    },
+                    {
+                        "attribute": "1.0",
+                        "description": "本店新用户立减1元",
+                        "icon_color": "00b762",
+                        "icon_name": "新",
+                        "id": 618100946,
+                        "is_exclusive_with_food_activity": true,
+                        "name": "门店新客立减",
+                        "tips": "本店新用户立减1元",
+                        "type": 108
+                    },
+                    {
+                        "description": "单品定价",
+                        "icon_color": "f1884f",
+                        "icon_name": "特",
+                        "id": 1608902321,
+                        "name": "单品定价",
+                        "tips": "单品定价"
+                    },
+                    {
+                        "description": "单品定价",
+                        "icon_color": "f1884f",
+                        "icon_name": "特",
+                        "id": 1608911937,
+                        "name": "单品定价",
+                        "tips": "单品定价"
+                    },
+                    {
+                        "attribute": "{\"35.0\": {\"quantity\": 1, \"must_pay_online\": 0, \"name\": \"\\u3010\\u96ea\\u78a7\\u3011330ml\\u6613\\u62c9\\u7f50\\u4ea7\\u54c1\"}}",
+                        "description": "满35元赠送【雪碧】330ml易拉罐产品1份",
+                        "icon_color": "3cc791",
+                        "icon_name": "赠",
+                        "id": 596551186,
+                        "is_exclusive_with_food_activity": true,
+                        "name": "满35元赠【雪碧】330ml拉罐产品1份",
+                        "tips": "满35元赠送【雪碧】330ml易拉罐产品1份",
+                        "type": 106
+                    },
+                    {
+                        "description": "单品定价",
+                        "icon_color": "f1884f",
+                        "icon_name": "特",
+                        "id": 1659680145,
+                        "name": "单品定价",
+                        "tips": "单品定价"
+                    },
+                    {
+                        "description": "单品定价",
+                        "icon_color": "f1884f",
+                        "icon_name": "特",
+                        "id": 1655772673,
+                        "name": "单品定价",
+                        "tips": "单品定价"
+                    },
+                    {
+                        "description": "单品定价",
+                        "icon_color": "f1884f",
+                        "icon_name": "特",
+                        "id": 1655772569,
+                        "name": "单品定价",
+                        "tips": "单品定价"
+                    },
+                    {
+                        "description": "单品定价",
+                        "icon_color": "f1884f",
+                        "icon_name": "特",
+                        "id": 1655545305,
+                        "name": "单品定价",
+                        "tips": "单品定价"
+                    },
+                    {
+                        "description": "单品定价",
+                        "icon_color": "f1884f",
+                        "icon_name": "特",
+                        "id": 1649054985,
+                        "name": "单品定价",
+                        "tips": "单品定价"
+                    },
+                    {
+                        "description": "超值换购",
+                        "icon_color": "f1884f",
+                        "icon_name": "换",
+                        "id": 1648701449,
+                        "name": "超值换购",
+                        "tips": "超值换购"
+                    },
+                    {
+                        "description": "单品定价",
+                        "icon_color": "f1884f",
+                        "icon_name": "特",
+                        "id": 1609807665,
+                        "name": "单品定价",
+                        "tips": "单品定价"
+                    },
+                    {
+                        "description": "单品定价",
+                        "icon_color": "f1884f",
+                        "icon_name": "特",
+                        "id": 1609805785,
+                        "name": "单品定价",
+                        "tips": "单品定价"
+                    },
+                    {
+                        "description": "单品定价",
+                        "icon_color": "f1884f",
+                        "icon_name": "特",
+                        "id": 1609803049,
+                        "name": "单品定价",
+                        "tips": "单品定价"
+                    },
+                    {
+                        "description": "单品定价",
+                        "icon_color": "f1884f",
+                        "icon_name": "特",
+                        "id": 1609798265,
+                        "name": "单品定价",
+                        "tips": "单品定价"
+                    },
+                    {
+                        "description": "单品定价",
+                        "icon_color": "f1884f",
+                        "icon_name": "特",
+                        "id": 1609797377,
+                        "name": "单品定价",
+                        "tips": "单品定价"
+                    },
+                    {
+                        "description": "单品定价",
+                        "icon_color": "f1884f",
+                        "icon_name": "特",
+                        "id": 1609795241,
+                        "name": "单品定价",
+                        "tips": "单品定价"
+                    },
+                    {
+                        "description": "单品定价",
+                        "icon_color": "f1884f",
+                        "icon_name": "特",
+                        "id": 1609791001,
+                        "name": "单品定价",
+                        "tips": "单品定价"
+                    },
+                    {
+                        "description": "单品定价",
+                        "icon_color": "f1884f",
+                        "icon_name": "特",
+                        "id": 1608926297,
+                        "name": "单品定价",
+                        "tips": "单品定价"
+                    },
+                    {
+                        "description": "单品定价",
+                        "icon_color": "f1884f",
+                        "icon_name": "特",
+                        "id": 1608924649,
+                        "name": "单品定价",
+                        "tips": "单品定价"
+                    },
+                    {
+                        "description": "单品定价",
+                        "icon_color": "f1884f",
+                        "icon_name": "特",
+                        "id": 1606676689,
+                        "name": "单品定价",
+                        "tips": "单品定价"
+                    },
+                    {
+                        "description": "单品定价",
+                        "icon_color": "f1884f",
+                        "icon_name": "特",
+                        "id": 1606674161,
+                        "name": "单品定价",
+                        "tips": "单品定价"
+                    },
+                    {
+                        "description": "单品定价",
+                        "icon_color": "f1884f",
+                        "icon_name": "特",
+                        "id": 1606663201,
+                        "name": "单品定价",
+                        "tips": "单品定价"
+                    },
+                    {
+                        "description": "单品定价",
+                        "icon_color": "f1884f",
+                        "icon_name": "特",
+                        "id": 1601325073,
+                        "name": "单品定价",
+                        "tips": "单品定价"
+                    },
+                    {
+                        "description": "单品定价",
+                        "icon_color": "f1884f",
+                        "icon_name": "特",
+                        "id": 1601324641,
+                        "name": "单品定价",
+                        "tips": "单品定价"
+                    },
+                    {
+                        "description": "单品定价",
+                        "icon_color": "f1884f",
+                        "icon_name": "特",
+                        "id": 1601311233,
+                        "name": "单品定价",
+                        "tips": "单品定价"
+                    }
+                ],
+                "address": "郑州市二七区大学南路92号兰亭名苑203号",
+                "authentic_id": 8333888756314425,
+                "bidding": "{\"core\":{\"index\":4,\"extraInfo\":\"{\\\"bidding\\\":\\\"{}\\\",\\\"rankId\\\":\\\"ae58e85ebb4141f9b88b466757ce0289\\\",\\\"rankTime\\\":\\\"1542201483\\\",\\\"cityId\\\":\\\"32\\\"}\",\"target\":{\"restaurantId\":167527325,\"weight\":90,\"probability\":0.037459999322891235},\"come_from\":0,\"next\":{\"restaurantId\":167505432,\"weight\":80,\"probability\":0.04058000072836876}}}",
+                "business_info": "{}",
+                "description": "",
+                "distance": 4798,
+                "favored": false,
+                "flavors": [
+                    {
+                        "id": 234,
+                        "name": "炸鸡炸串"
+                    },
+                    {
+                        "id": 265,
+                        "name": "简餐"
+                    }
+                ],
+                "float_delivery_fee": 4.5,
+                "float_minimum_order_amount": 15,
+                "has_story": false,
+                "id": 167527325,
+                "image_path": "786b2683d4e5465ebce69a71c3c5962dpng",
+                "is_new": false,
+                "is_premium": false,
+                "is_stock_empty": 0,
+                "is_valid": 1,
+                "latitude": 34.707515,
+                "longitude": 113.641121,
+                "max_applied_quantity_per_order": -1,
+                "name": "叫了只炸鸡(人和路店)",
+                "next_business_time": "明天 10:30",
+                "only_use_poi": false,
+                "opening_hours": [
+                    "10:30/23:30"
+                ],
+                "order_lead_time": 51,
+                "out_of_range": false,
+                "phone": "18239955672",
+                "piecewise_agent_fee": {
+                    "description": "夜间配送费¥4.5",
+                    "extra_fee": 2.5,
+                    "is_extra": true,
+                    "no_subsidy_fee": "¥8",
+                    "rules": [
+                        {
+                            "fee": 4.5,
+                            "price": 15
+                        }
+                    ],
+                    "tips": "夜间配送费¥4.5"
+                },
+                "platform": 0,
+                "posters": [],
+                "promotion_info": "1：亲，本店所有的鸡都需现炸12分钟，所以请您下单后耐心等待。还有哦，由于时间需要的久，所以我们的配送是延迟8分钟后才开始呼叫的。这样既不影响配送小哥的送单量，也可以让小哥来了之后不需等待，直接可以开始配送您的美食。\n2：由于本店优惠力度比较大，单点小吃没有搭配炸鸡的，小吃金额满30元接单配送，感谢互相理解。",
+                "rating": 4.6,
+                "rating_count": 366,
+                "recent_order_num": 979,
+                "recommend": {
+                    "image_hash": "731111f3f9379e772eedf4855beae8a1jpeg",
+                    "is_ad": true,
+                    "reason": "广告",
+                    "track": "{\"rankType\":\"8\"}"
+                },
+                "recommend_reasons": [],
+                "regular_customer_count": 0,
+                "scheme": "eleme://catering?restaurant_id=167527325",
+                "status": 1,
+                "support_tags": [
+                    {
+                        "border": "dddddd",
+                        "color": "666666",
+                        "icon": "4e20966ca2a516de3f02fb9c7fd1bc6dpng",
+                        "text": "炸鸡炸串",
+                        "type": 1
+                    }
+                ],
+                "supports": [
+                    {
+                        "border": "90dddddd",
+                        "description": "该商户食品安全已由国泰产险承担，食品安全有保障",
+                        "icon_color": "999999",
+                        "icon_name": "保",
+                        "id": 7,
+                        "name": "食安保",
+                        "text_color": "666666",
+                        "two_characters_icon_name": "保险"
+                    }
+                ],
+                "theme": {
+                    "default_color": "2395ff",
+                    "header_style": 0,
+                    "hongbao_style": 0,
+                    "price_color": "ff5339",
+                    "third_tab_name": "商家",
+                    "vanish_fields": []
+                },
+                "type": 0
+            }
+        },
+        {
+            "restaurant": {
+                "act_tag": 0,
+                "activities": [
+                    {
+                        "attribute": "14.0",
+                        "description": "新用户下单立减14元",
+                        "icon_color": "70bc46",
+                        "icon_name": "首",
+                        "id": 806398706,
+                        "is_exclusive_with_food_activity": true,
+                        "name": "新用户立减(不与其他活动共享)",
+                        "tips": "新用户下单立减14元",
+                        "type": 103
+                    }
+                ],
+                "address": "郑州市二七区连云路123号黄河科技学院南校区",
+                "authentic_id": 3373878750498877,
+                "business_info": "{}",
+                "description": "二七区投诉热线：18639999451",
+                "distance": 575,
+                "favored": false,
+                "flavors": [
+                    {
+                        "id": 219,
+                        "name": "香锅砂锅"
+                    }
+                ],
+                "float_delivery_fee": 0,
+                "float_minimum_order_amount": 12,
+                "has_story": false,
+                "id": 254077,
+                "image_path": "c1ba7bb9dc920528d23e790b1a15bedajpeg",
+                "is_new": false,
+                "is_premium": false,
+                "is_stock_empty": 0,
+                "is_valid": 1,
+                "latitude": 34.68814,
+                "longitude": 113.676391,
+                "max_applied_quantity_per_order": -1,
+                "name": "麻辣香锅（新增鸡公煲）",
+                "next_business_time": "明天 08:00",
+                "only_use_poi": false,
+                "opening_hours": [
+                    "08:00/22:30"
+                ],
+                "order_lead_time": 30,
+                "out_of_range": false,
+                "phone": "15981800732",
+                "piecewise_agent_fee": {
+                    "description": "免配送费",
+                    "extra_fee": 0,
+                    "is_extra": false,
+                    "no_subsidy_fee": "",
+                    "rules": [
+                        {
+                            "fee": 0,
+                            "price": 12
+                        }
+                    ],
+                    "tips": "免配送费"
+                },
+                "platform": 0,
+                "posters": [],
+                "promotion_info": "",
+                "rating": 4.1,
+                "rating_count": 1178,
+                "recent_order_num": 1086,
+                "recommend": {
+                    "is_ad": false,
+                    "reason": ""
+                },
+                "recommend_reasons": [
+                    {
+                        "name": "配送飞快"
+                    }
+                ],
+                "regular_customer_count": 0,
+                "scheme": "eleme://catering?restaurant_id=254077",
+                "status": 1,
+                "support_tags": [
+                    {
+                        "border": "dddddd",
+                        "color": "666666",
+                        "icon": "4e20966ca2a516de3f02fb9c7fd1bc6dpng",
+                        "text": "香锅砂锅",
+                        "type": 1
+                    },
+                    {
+                        "border": "dddddd",
+                        "color": "333333",
+                        "text": "品质联盟"
+                    }
+                ],
+                "supports": [
+                    {
+                        "border": "90dddddd",
+                        "description": "该商户食品安全已由国泰产险承担，食品安全有保障",
+                        "icon_color": "999999",
+                        "icon_name": "保",
+                        "id": 7,
+                        "name": "食安保",
+                        "text_color": "666666",
+                        "two_characters_icon_name": "保险"
+                    },
+                    {
+                        "border": "90dddddd",
+                        "description": "该商家支持开发票，开票订单金额100元起，请在下单时填写好发票抬头",
+                        "icon_color": "999999",
+                        "icon_name": "票",
+                        "id": 4,
+                        "name": "开发票",
+                        "text_color": "666666",
+                        "two_characters_icon_name": "发票"
+                    }
+                ],
+                "theme": {
+                    "default_color": "2395ff",
+                    "header_style": 0,
+                    "hongbao_style": 0,
+                    "price_color": "ff5339",
+                    "third_tab_name": "商家",
+                    "vanish_fields": []
+                },
+                "type": 0
+            }
+        },
+        {
+            "restaurant": {
+                "act_tag": 0,
+                "activities": [
+                    {
+                        "attribute": "{\"17\": {\"1\": 1.0, \"0\": 0}, \"66\": {\"1\": 10.0, \"0\": 0}, \"35\": {\"1\": 3.0, \"0\": 0}}",
+                        "description": "满17减1，满35减3，满66减10",
+                        "icon_color": "f07373",
+                        "icon_name": "减",
+                        "id": 1662786865,
+                        "is_exclusive_with_food_activity": true,
+                        "name": "自营销复杂满减活动",
+                        "tips": "满17减1，满35减3，满66减10",
+                        "type": 102
+                    },
+                    {
+                        "attribute": "14.0",
+                        "description": "新用户下单立减14元",
+                        "icon_color": "70bc46",
+                        "icon_name": "首",
+                        "id": 971498017,
+                        "is_exclusive_with_food_activity": true,
+                        "name": "新用户立减(不与其他活动共享)",
+                        "tips": "新用户下单立减14元",
+                        "type": 103
+                    }
+                ],
+                "address": " 郑州市二七区连云路123号黄河科技学院南校区",
+                "authentic_id": 8383888743418434,
+                "business_info": "{}",
+                "description": "郑州豫景传奇老碗面《黄科大美食街店铺欢迎广大师生饿了么预订美食》",
+                "distance": 769,
+                "favored": false,
+                "flavors": [
+                    {
+                        "id": 213,
+                        "name": "米粉面馆"
+                    },
+                    {
+                        "id": 265,
+                        "name": "简餐"
+                    }
+                ],
+                "float_delivery_fee": 0,
+                "float_minimum_order_amount": 9,
+                "has_story": false,
+                "id": 162475334,
+                "image_path": "31e667aa5065fe68cc3e3b6e6a6c484cjpeg",
+                "is_new": false,
+                "is_premium": false,
+                "is_stock_empty": 0,
+                "is_valid": 1,
+                "latitude": 34.685635,
+                "longitude": 113.678285,
+                "max_applied_quantity_per_order": -1,
+                "name": "豫景传奇老碗面",
+                "next_business_time": "明天 08:30",
+                "only_use_poi": false,
+                "opening_hours": [
+                    "08:30/22:00"
+                ],
+                "order_lead_time": 36,
+                "out_of_range": false,
+                "phone": "13676910589 0371-63376510",
+                "piecewise_agent_fee": {
+                    "description": "免配送费",
+                    "extra_fee": 0,
+                    "is_extra": false,
+                    "no_subsidy_fee": "",
+                    "rules": [
+                        {
+                            "fee": 0,
+                            "price": 9
+                        }
+                    ],
+                    "tips": "免配送费"
+                },
+                "platform": 0,
+                "posters": [],
+                "promotion_info": "豫景传奇老碗面~欢迎广大师生预订，我们将竭诚为您服务！",
+                "rating": 4.2,
+                "rating_count": 99,
+                "recent_order_num": 462,
+                "recommend": {
+                    "image_hash": "731111f3f9379e772eedf4855beae8a1jpeg",
+                    "is_ad": false,
+                    "track": "{\"rankType\":\"18\"}"
+                },
+                "recommend_reasons": [],
+                "regular_customer_count": 0,
+                "scheme": "eleme://catering?restaurant_id=162475334",
+                "status": 1,
+                "support_tags": [
+                    {
+                        "border": "dddddd",
+                        "color": "666666",
+                        "icon": "4e20966ca2a516de3f02fb9c7fd1bc6dpng",
+                        "text": "米粉面馆",
+                        "type": 1
+                    },
+                    {
+                        "border": "dddddd",
+                        "color": "333333",
+                        "text": "品质联盟"
+                    }
+                ],
+                "supports": [],
+                "theme": {
+                    "default_color": "2395ff",
+                    "header_style": 0,
+                    "hongbao_style": 0,
+                    "price_color": "ff5339",
+                    "third_tab_name": "商家",
+                    "vanish_fields": []
+                },
+                "type": 0
+            }
+        },
+        {
+            "restaurant": {
+                "act_tag": 0,
+                "activities": [
+                    {
+                        "attribute": "{\"25\": {\"1\": 3, \"0\": 0}, \"35\": {\"1\": 5, \"0\": 0}, \"49\": {\"1\": 8, \"0\": 0}}",
+                        "description": "满25减3，满35减5，满49减8",
+                        "icon_color": "f07373",
+                        "icon_name": "减",
+                        "id": 10111644,
+                        "is_exclusive_with_food_activity": false,
+                        "name": "全店满减",
+                        "tips": "满25减3，满35减5，满49减8",
+                        "type": 102
+                    }
+                ],
+                "address": "郑州市二七区橄榄城乐享茂1层C111号商铺",
+                "authentic_id": 5353878755583791,
+                "baidu_id": 2235386364,
+                "business_info": "{}",
+                "description": "",
+                "distance": 1542,
+                "favored": false,
+                "flavors": [
+                    {
+                        "id": 271,
+                        "name": "便利店"
+                    }
+                ],
+                "float_delivery_fee": 4,
+                "float_minimum_order_amount": 20,
+                "has_story": false,
+                "id": 168089091,
+                "image_path": "b5d033bde72a3164d2bf01aa18b90518jpeg",
+                "is_new": true,
+                "is_premium": false,
+                "is_stock_empty": 0,
+                "is_valid": 1,
+                "latitude": 34.69637416,
+                "longitude": 113.67149318,
+                "max_applied_quantity_per_order": -1,
+                "name": "亿佳便利（橄榄城店）",
+                "next_business_time": "明天 00:00",
+                "only_use_poi": false,
+                "opening_hours": [
+                    "00:00/23:55"
+                ],
+                "order_lead_time": 29,
+                "out_of_range": false,
+                "phone": "0371-56023228",
+                "piecewise_agent_fee": {
+                    "description": "配送费¥4",
+                    "extra_fee": 0,
+                    "is_extra": false,
+                    "no_subsidy_fee": "",
+                    "rules": [
+                        {
+                            "fee": 4,
+                            "price": 20
+                        }
+                    ],
+                    "tips": "配送费¥4"
+                },
+                "platform": 1,
+                "posters": [],
+                "promotion_info": "",
+                "rating": 5,
+                "rating_count": 47,
+                "recent_order_num": 25,
+                "recommend": {
+                    "image_hash": "731111f3f9379e772eedf4855beae8a1jpeg",
+                    "is_ad": false,
+                    "track": "{\"rankType\":\"29\"}"
+                },
+                "recommend_reasons": [
+                    {
+                        "name": "配送飞快"
+                    }
+                ],
+                "regular_customer_count": 0,
+                "scheme": "eleme://web?url=https%3A//h5-newretail.faas.ele.me/static/h5_newretail/pages/shop.html%3Fid%3D2235386364&navType=3",
+                "status": 1,
+                "support_tags": [
+                    {
+                        "border": "dddddd",
+                        "color": "666666",
+                        "icon": "4e20966ca2a516de3f02fb9c7fd1bc6dpng",
+                        "text": "便利店",
+                        "type": 1
+                    }
+                ],
+                "supports": [
+                    {
+                        "border": "90dddddd",
+                        "description": "该商家支持开发票，请在下单时填写好发票抬头",
+                        "icon_color": "999999",
+                        "icon_name": "票",
+                        "id": 4,
+                        "name": "开发票",
+                        "text_color": "666666",
+                        "two_characters_icon_name": "发票"
+                    }
+                ],
+                "theme": {
+                    "default_color": "2395ff",
+                    "header_style": 0,
+                    "hongbao_style": 0,
+                    "price_color": "ff5339",
+                    "third_tab_name": "商家",
+                    "vanish_fields": []
+                },
+                "type": 1
+            }
+        }
+    ],
+    "meta": {
+        "rank_id": "ae58e85ebb4141f9b88b466757ce0289"
+    }
+}

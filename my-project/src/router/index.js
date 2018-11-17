@@ -4,7 +4,8 @@ import City from '@/components/city'
 import Login from '@/components/login'
 import Reset from '@/components/reset'
 import SearchCity from '@/components/searchCity'
-
+import Index from '@/components/index'
+import Details from '@/components/details'
 Vue.use(Router)
 
 export default new Router({
@@ -28,6 +29,16 @@ export default new Router({
       path:'/searchCity/:id',
       name:'searchCity',
       component:SearchCity
+    },
+    {
+      path:'/index',
+      name:'index',
+      component:Index
+    },
+    {
+      path:'/details',
+      name:'details',
+      component:Details
     }
   ]
 })

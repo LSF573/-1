@@ -62,7 +62,6 @@ export default {
        password:''
     }
   },
-  
   created(){
     this.$Axios.post('https://elm.cangdu.org/v1/captchas').then(data => {
         // console.log(data.data)

@@ -6,7 +6,6 @@ const path = require('path')
 
 module.exports = {
   dev: {
-
     // Paths
     assetsSubDirectory: 'static',
     assetsPublicPath: '/',
@@ -17,6 +16,20 @@ module.exports = {
         changeOrigin:true,
         pathRewrite:{
           '^/Api':'/login'
+        }
+      },
+      "/city":{
+        target:'http://localhost:8088/shopping',
+        changeOrigin:true,
+        pathRewrite:{
+          '^/city':'/v3'
+        }
+      },
+      "/store":{
+        target:'http://localhost:8088/shopping',
+        changeOrigin:true,
+        pathRewrite:{
+          '^/store':'/store'
         }
       }
     },
